@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel='icon' href='.IgorVscode/ico.png' type='image.png'></link>
+    <link rel="stylesheet" type="text/css" href="./index.css">   
+   <title> Workshop</title>
+</head>
+<body>
+
+    <div class="container">
+    <header>
+        <h1 class="title"> PARTICIPE DO WORKSHOP QUE VAI MUDAR O SEU NEGOCIO</h1> 
+        <link></header><link rel="stylesheet" href=""> 
+    </header> 
+    <section>
+        <div class='formContainer'>
+            
+            <h2 class= 'mb'
+            > GARANTA O SEU LUGAR NO MAIOR WORKSHOP DE BRUSQUE<h2>
+            <P class = 'mb'> Nesse evento voce vai aprender sobre linguagens e ferramentas utilizadas atualmente no mercado de tecnologia! </P>
+
+           <form  method="post" action="https://gmail.us4.list-manage.com/subscribe/post?u=5d6c0e47dbd52bdb4ca8fab9c&amp;id=67645cb904"  id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<input id="name " name="FNAME" type="text"  placeholder="Nome">
+<input id="email" name="EMAIL" type="text"  placeholder="email" >  
+<select name='PLACE'><br>
+    <option value='RJ'>Rio de Janeiro</option>
+    <option value='SP'>São paulo</option> 
+    <option value='MG'>Minas Gerais</option>
+    <option value='ES'>Espírito Santo</option>
+    <input type="submit" value='INSCREVA-SE'> 
+
+
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_5d6c0e47dbd52bdb4ca8fab9c_67645cb904" tabindex="-1" value=""></div>
+    <div class="clear">
+    </form>    
+</div>  
+    </section>
+<footer>
+<!-- as pastas que estão no desktop, nao precisam ser escritas. Ex: IgorVsCode -->
+    <img class='rosto' src=' ./face.jpg'> 
+    <div class="descricao">
+        <h3> O Palestrante</h3>
+        <p>Lucas Bezerra é conhecido como uma dos melhores desenvolvedores de santa catarina com conhecimentos em Javascript! 
+            A tecnologia está em alta no mercado e é procurada por grandes empresas.
+        
+             </p>
+        
+             <P> LoremIpsumLoremIpsumLoremIpsumLoremIpsumLoremIpsumLoremIpsumLo
+                 remIpsumLoremIpsumLoremIpsum
+                LoremIpsumLoremIpsumLoremIpsumLoremIpsumLoremIpsum
+                LoremIpsumLoremIpsumLoremIpsum
+             </P>
+    </div>
+</footer>
+
+
+</body>
+</html>
+
